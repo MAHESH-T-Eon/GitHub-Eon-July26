@@ -1,1 +1,2 @@
-# Create a function to add two numbers
+# Create a function to multiply two numbers
+#
